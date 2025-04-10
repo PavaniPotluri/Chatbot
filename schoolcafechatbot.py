@@ -6,9 +6,9 @@ import tempfile
 
 # Azure OpenAI Client
 client = AzureOpenAI(
-    api_key="3SpmpodXBzKYWZnIBcAkxDR5DTFJfDBRFWlASKb1sY7Fe52e2CTbJQQJ99BDACYeBjFXJ3w3AAABACOGlumZ",
+    api_key="CMfEAxVMt34Nq8hQlkz9erOq7PcvKhNCvtyCXB7PhT8ypv7vctuyJQQJ99BDACHYHv6XJ3w3AAABACOGGQbS",
     api_version="2024-12-01-preview",
-    azure_endpoint="https://pavani-day3.openai.azure.com/"
+    azure_endpoint="https://cybersofttrainingday2.openai.azure.com"
 )
 
 st.title("🧠 Multi Modal Chatbot")
